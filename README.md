@@ -1120,6 +1120,7 @@ submitting a repository.
 - [dsh-ui-usage-billing](https://github.com/kenz1117/dsh-ui-usage-billing) - Usage billing dashboard for DeepSeek Harness with sidebar cost metrics, session-log aggregation, and multi-provider pricing.
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) - Gives text-only DeepSeek Harness agents image understanding through a built-in no-key vision chain plus fourteen tools for Q&A, grounding, OCR, crop, screenshots and pixel diff.
 - [dsh-voice-mode](https://github.com/qishuilalala/dsh-voice-mode) - Full-duplex voice plugin for DeepSeek Harness: local streaming speech-to-text into drafts, sentence-by-sentence read-aloud with live captions, and barge-in.
+- [dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) - Plugin that brings Wallpaper Engine scene, web, and video wallpapers into the DSH chat interface with WebGL rendering.
 - [dsh-whale-girl-pet](https://github.com/yanzwzz/dsh-whale-girl-pet) - Desktop pet plugin for the DeepSeek Harness web UI that reports task token usage, session and per-turn cost pills, and hourly spend dashboards.
 - [dsh-zen-remote](https://github.com/KyoMio/dsh-zen-remote) - DeepSeek Harness plugin that serves sessions to phones as a PWA with lock-screen push notifications and shares sessions to other DSH desktops.
 - [dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - DeepSeek Harness plugin that searches, reads, and cites papers from a local Zotero library with an auditable literature trail.
